@@ -28,7 +28,7 @@ reasons and unwritten ones.
 Set up
 ------
 
-    $ gem install sinatra
+    $ gem install sinatra webrick
     $ git clone https://github.com/authlete/useless-oauth-server
     $ cd useless-oauth-server
 
